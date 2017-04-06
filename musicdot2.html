@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>MusicDot | Cursos Online de Teclado, Guitarra, Piano, Violão e Canto</title>
